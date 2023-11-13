@@ -9,7 +9,9 @@
  🔭 I’m currently working on **my projects**
  
  🌱 I’m currently learning **Character Design in blender**
- 💬 Ask me about **UI/UX design... or anything 
+ 
+ 💬 Ask me about **UI/UX design... 
+ 
  ⚡ Fun fact **Watching Animie without knowing japanese with english subtitle **
  
  </div>
