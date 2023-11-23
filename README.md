@@ -6,13 +6,12 @@
 <br/>
 <div align="center">
  
- 🔭 I’m currently working on **my projects**
  
  🌱 I’m currently learning **Character Design in blender**
  
- 💬 Ask me about **UI/UX design... 
+ 💬 Ask me about **UI/UX design related questions**...
  
- ⚡ Fun fact **Watching Animie without knowing japanese with english subtitle **
+ ⚡ Fun fact **Watching Anime's without knowing japanese with english subtitle **
  
  </div>
  
