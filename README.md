@@ -1,16 +1,16 @@
 ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--CzEvOo0v--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yceo3xk3of14d3hbdkdp.png)
 
 <h1 align="center">Hi 👋, I'm HARI PRASATH</h1>
-<h3 align="center">A passionate 3D Animator & Modeling from India</h3>
+<h3 align="center">"3D Modeler:Transforming Concepts into Striking Logos,Products,and Animations"</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari28m&label=Profile%20views&color=0e75b6&style=flat" alt="hari28m" /> </p>
 
-- 🌱 I’m currently learning **Animations**
+- 🌱 I’m currently learning **Concepts of 3D Modeling**
 
-- 💬 Ask me about **3D character ,UI/UX...**
+- 💬 Ask me about **3D,2D Modeling Doubts,and UI/UX Designs...**
 
 - 📫 How to reach me **hariprasath73732@gmail.com**
 
